@@ -1,0 +1,206 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+body {
+    background: black;
+}
+
+.one {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding: 55px 0;
+}
+
+ul {
+    display: flex;
+}
+
+.header nav ul {
+    list-style: none;
+    gap: 40px;
+
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+
+
+}
+
+.hero {
+    background-image: url(./img/Rectangle\ 2\ \(1\).png);
+    padding: 50px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-align: center;
+    background-color: white;
+    width: 602px;
+    height: 75px;
+    border-radius: 50px;
+    box-shadow: 16px 18px 28px 0px #FFFFFF40;
+    margin: 10px auto;
+}
+
+
+.yashil h2 {
+    text-align: center;
+    color: red;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+
+
+}
+
+.aa {
+    color: white !important;
+}
+
+.yashil {
+    width: 237px;
+    height: 209px;
+    background: #32FB00;
+    box-shadow: 0px 22px 27.8px 0px #FFF9F940;
+    padding: top 120px;
+    position: relative;
+
+}
+
+.yashil h3 {
+    margin-top: 146px;
+    text-align: center;
+    color: red;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+
+
+}
+
+.qizil {
+    width: 237px;
+    height: 209px;
+    background-color: red;
+    box-shadow: 0px 18px 26.5px 0px #FB000040;
+    position: absolute;
+    top: -100px;
+    right: -100px;
+    padding-top: 80px;
+
+}
+
+.kotta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 180px;
+}
+
+.qizil2 {
+    width: 411px;
+    border-radius: 100px;
+    height: 209px;
+    background-color: red;
+    box-shadow: 0px 18px 26.5px 0px #FB000040;
+    position: absolute;
+    top: -100px;
+    left: -80px;
+    padding-top: 80px;
+
+}
+
+.qizil3 {
+    width: 237px;
+    height: 209px;
+    background-color: red;
+    box-shadow: 0px 18px 26.5px 0px #FB000040;
+    position: absolute;
+    top: -100px;
+    right: 100px;
+    padding-top: 80px;
+
+}
+
+.h2 {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    text-align: center;
+    background-color: white;
+    width: 602px;
+    height: 75px;
+    border-radius: 50px;
+    box-shadow: 16px 18px 28px 0px #FFFFFF40;
+    margin: 10px auto;
+    margin-top: 79px;
+}
+
+.bola {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 125px;
+}
+
+.box {
+    width: 368px;
+    height: 332px;
+    background: #7B2525;
+    color: white;
+    text-shadow: 0px 4px 7.4px #FFFFFF;
+    align-items: center;
+}
+
+.box h3 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.73px;
+    padding: 60px 118px;
+    text-align: center;
+
+}
+
+.box p {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+    padding: 38px 51px;
+    text-align: center;
+}
+.box img{
+   padding: 0 38px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
